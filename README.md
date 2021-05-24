@@ -1,1 +1,2 @@
 # Color-Contrast-Calculator
+The Color Contrast Calcultor takes user input of the RGB for the  foreground color and background color. The user will specify if they are trying to calculate the color contrast of 4.5:1 for text or 3.1:1 for images. Then Autohotkey will then calculate what the passing RGB values need to be based off of the formula for color contrast and return a dialog box with the RGB values and the percentages.
